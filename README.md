@@ -1,2 +1,2 @@
 # plugin.video.ltv7
-LTV7 live stream plugin for Kodi
+LTV7 live stream add-on for Kodi
